@@ -1,0 +1,29 @@
+
+h1{
+    margin: 100px;
+    justify-content: center;
+}
+
+.card border-warning mb-3{
+    max-width: 20%;
+}
+
+
+.tarjetas1{
+    max-width: 20%;
+    display: inline-block;
+    width: 200px;
+    margin-right: 10px;
+}
+.tarjetas2{
+    max-width: 20%;
+    display: inline-block;
+    width: 200px;
+    margin-right: 10px;
+}
+.tarjetas3{
+    max-width: 20%;
+    display: inline-block;
+    width: 200px;
+    margin-right: 10px;
+}
